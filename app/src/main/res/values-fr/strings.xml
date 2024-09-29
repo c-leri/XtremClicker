@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_clicker">Bouton Xtrem</string>
+    <string name="title_store">Magasin Xtrem</string>
+
+    <string name="music_enabled_button">Activer/Désactiver la Musique</string>
+    <string name="sounds_enabled_button">Activer/Désactiver les Effets Sonores</string>
+
+    <string name="clicker_score">%s X$</string>
+    <string name="clicker_click">Cliques</string>
+
+    <string name="store_score">Tu as: %s X$</string>
+    <string name="store_price">%s X$</string>
+    <string name="store_owned">x%s</string>
+
+    <string name="upgrade0_name">Poing de Feu</string>
+    <string name="upgrade0_description">Donne un X$ supplémentaire par clic.</string>
+    <string name="upgrade1_name">Potion Secrète</string>
+    <string name="upgrade1_description">Donne 2 X$ supplémentaires par clic.</string>
+    <string name="upgrade2_name">Figure de Fou</string>
+    <string name="upgrade2_description">Donne 20% de X$ supplémentaires par clic.</string>
+    <string name="upgrade3_name">Lunettes Stylées</string>
+    <string name="upgrade3_description">Donne 100 X$ supplémentaires par clic.</string>
+    <string name="upgrade4_name">Opinion Radicale</string>
+    <string name="upgrade4_description">Donne 100% de X$ supplémentaires par clic.</string>
+    <string name="upgrade5_name">Manifeste Communiste</string>
+    <string name="upgrade5_description">Donne 900% de X$ supplémentaires par clic.</string>
+</resources>

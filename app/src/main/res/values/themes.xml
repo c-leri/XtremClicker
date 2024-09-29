@@ -1,0 +1,21 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.XtremClicker" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="android:textColor">@color/text_color</item>
+    </style>
+
+    <style name="Theme.XtremClicker.BigButton">
+        <item name="android:background">@drawable/big_red_button</item>
+        <item name="android:stateListAnimator">@animator/button_animation</item>
+        <item name="android:translationZ">20dp</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="RoundedImageView">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>

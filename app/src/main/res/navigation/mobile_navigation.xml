@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_clicker">
+
+    <fragment
+        android:id="@+id/navigation_clicker"
+        android:name="uqac.dim.xtremclicker.ui.clicker.ClickerFragment"
+        android:label="@string/title_clicker"
+        tools:layout="@layout/fragment_clicker" />
+
+    <fragment
+        android:id="@+id/navigation_store"
+        android:name="uqac.dim.xtremclicker.ui.store.StoreFragment"
+        android:label="@string/title_store"
+        tools:layout="@layout/fragment_store" />
+</navigation>

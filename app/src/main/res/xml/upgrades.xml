@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<upgrades>
+    <upgrade id="0">
+        <name value="@string/upgrade0_name" />
+        <icon value="@drawable/upgrade0" />
+        <description value="@string/upgrade0_description" />
+        <base-price value="10" />
+        <price-increment-factor value="0.5" />
+        <flat-bonus value="1" />
+        <factor-bonus value="0.0" />
+    </upgrade>
+    <upgrade id="1">
+        <name value="@string/upgrade1_name" />
+        <icon value="@drawable/upgrade1" />
+        <description value="@string/upgrade1_description" />
+        <base-price value="100" />
+        <price-increment-factor value="1.0" />
+        <flat-bonus value="2" />
+        <factor-bonus value="0.0" />
+    </upgrade>
+    <upgrade id="2">
+        <name value="@string/upgrade2_name" />
+        <icon value="@drawable/upgrade2" />
+        <description value="@string/upgrade2_description" />
+        <base-price value="500" />
+        <price-increment-factor value="1.5" />
+        <flat-bonus value="0" />
+        <factor-bonus value="0.2" />
+    </upgrade>
+    <upgrade id="3">
+        <name value="@string/upgrade3_name" />
+        <icon value="@drawable/upgrade3" />
+        <description value="@string/upgrade3_description" />
+        <base-price value="5000" />
+        <price-increment-factor value="2.0" />
+        <flat-bonus value="100" />
+        <factor-bonus value="0.0" />
+    </upgrade>
+    <upgrade id="4">
+        <name value="@string/upgrade4_name" />
+        <icon value="@drawable/upgrade4" />
+        <description value="@string/upgrade4_description" />
+        <base-price value="100000" />
+        <price-increment-factor value="2.5" />
+        <flat-bonus value="0" />
+        <factor-bonus value="1.0" />
+    </upgrade>
+    <upgrade id="5">
+        <name value="@string/upgrade5_name" />
+        <icon value="@drawable/upgrade5" />
+        <description value="@string/upgrade5_description" />
+        <base-price value="1000000000" />
+        <price-increment-factor value="9.0" />
+        <flat-bonus value="0" />
+        <factor-bonus value="9.0" />
+    </upgrade>
+</upgrades>

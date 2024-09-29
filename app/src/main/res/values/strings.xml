@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Xtrem Clicker</string>
+    <string name="title_clicker">Xtrem Button</string>
+    <string name="title_store">Xtrem Store</string>
+
+    <string name="music_enabled_button">Toggle Music</string>
+    <string name="sounds_enabled_button">Toggle Sound Effects</string>
+
+    <string name="clicker_score">X$%s</string>
+    <string name="clicker_click">Click</string>
+
+    <string name="store_score">You have: X$%s</string>
+    <string name="store_price">X$%s</string>
+    <string name="store_owned">x%s</string>
+
+    <string name="upgrade0_name">Flaming Fist</string>
+    <string name="upgrade0_description">Gives X$1 more per click.</string>
+    <string name="upgrade1_name">Secret Potion</string>
+    <string name="upgrade1_description">Gives X$2 more per click.</string>
+    <string name="upgrade2_name">Sick Trick</string>
+    <string name="upgrade2_description">Gives 20% more X$ per click.</string>
+    <string name="upgrade3_name">Cool Glasses</string>
+    <string name="upgrade3_description">Gives X$100 more per click.</string>
+    <string name="upgrade4_name">Radical Opinion</string>
+    <string name="upgrade4_description">Gives 100% more X$ per click.</string>
+    <string name="upgrade5_name">Communist Manifesto</string>
+    <string name="upgrade5_description">Gives 900% more X$ per click.</string>
+</resources>
